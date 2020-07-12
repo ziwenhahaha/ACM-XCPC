@@ -1,3 +1,3 @@
 # ACM-XCPC
-to record the daily exercises qqqqqqqqqq
+to record the daily exercises aaaaaaaaaaaa
 
